@@ -1,0 +1,20 @@
+.card-wrapper {
+	margin: 0 auto;
+	max-width: 1200px;
+	height: 300px;
+}
+
+.card-stack {
+	height: 100%;
+	position: relative;
+	margin-bottom: 20px;
+}
+
+.card {
+	box-shadow: 0 0 10px 0 #0001;
+	display: inline-block;
+	background-color: #fff;
+	position: absolute;
+	border-radius: 5px;
+	padding: 20px;
+}
